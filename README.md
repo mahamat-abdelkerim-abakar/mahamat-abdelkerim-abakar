@@ -5,7 +5,7 @@
   <img src="assets/images/cv1.png" alt="cover" />
 </div>
  <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Mahamat | 💻 Software Engineer | 🛸 Ndjamena, Chad <img src="http://www.reddit.com/r/gifs/comments/43t5sd/hackers_life/" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Mahamat | 💻 Software Engineer | 🛸 Ndjamena, Chad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br>
 
